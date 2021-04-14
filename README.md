@@ -5,11 +5,12 @@ Measures to evaluate their performance methods.
 
 Theoretical aspects:
 
-1.Classification of problems that require machine learning methods.
+1. Classification of problems that require machine learning methods.
+
 2. Designing self-learning systems.
 
 3. Evaluation of self-learning systems. Performance values: Error
 
-4.Precision, Accuracy, Recall,
+4. Precision, Accuracy, Recall,
 
 5. Cost function
