@@ -1,4 +1,4 @@
-ai-evalml-Iri25
+Artificial Intelligence
 
 Introduction to the development of self-learning systems. Types of problems that can be solved with machine learning methods (regression and classification). 
 Measures to evaluate their performance methods.
