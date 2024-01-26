@@ -1,3 +1,4 @@
+# machine-learning-algorithms
 Python project that contains 3 folders with applications that solve problems through machine learning methods of which 2 with regression and 1 with classification.
 
 Key concepts are machine learning methods, the method of least squares, the descending gradient method and logistic regression method.
